@@ -1,0 +1,6 @@
+[submodule "packages/course-generator"]
+	path = packages/course-generator
+	url = https://github.com/kylon-tyner-fis/edge-course-generator.git
+[submodule "packages/text-to-speech"]
+	path = packages/text-to-speech
+	url = https://github.com/kylon-tyner-fis/edge-text-to-speech.git
